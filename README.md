@@ -8,7 +8,6 @@ This clone you will have the ability to chat with other users in real time just 
 
 In the project I used the M.E.R.N stack. Using JavaScript's framework React.js as the FrontEnd, MongoDB as the database and taking advantage of MongoDB's ChangeStream and Pusher to make it a real time database.
 
-
 ### `npm start`
 
 Runs the app in the development mode.<br />
